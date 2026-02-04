@@ -2,9 +2,9 @@
 
 Engineer who enjoys building things that are **fast**, **clean** and **useful** to replace myself.
 
-- Interested in software engineering, ML, and scalable systems
-- Like performance, reliability, and good tooling
-- Always learning, always shipping
+💡 Interested in software engineering, ML, and scalable systems  
+⚙️ Like performance, reliability, and good tooling  
+🚀 Always learning, always shipping  
 
 Links: [Website](https://jasperzeng.me) • [GitHub](https://github.com/Apricot0) • [LinkedIn](https://linkedin.com/in/jasper-zeng-ny/)
 
